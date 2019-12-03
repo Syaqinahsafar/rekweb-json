@@ -1,0 +1,110 @@
+{
+    "menu": [
+        {
+            "category": "pizza",
+            "name": "American All Star",
+            "description": "Tomato Sauce, Mustard Sauce, Jalapeno, Beef Rasher, Beef Crumble, Beef Pepperoni, Onion, Slice Cheese, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "american-allstar.png"        
+        },
+        {
+            "category": "pizza",
+            "name": "American Classic Cheeseburger",
+            "description": "Tomato Sauce, Mustard Sauce, Tomato, Beef Rasher, Beef Crumble, Onion, Slice Cheese, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "american-classic-cheeseburger.png"        
+        },
+        {
+            "category": "pizza",
+            "name": "Chicken Dominator",
+            "description": "Rustic Sauce, Green Paprika, Corn, Chili Chicken, Chicken Pepperoni, Chicken Sausage, Onion, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "chicken-dominator.png"        
+        },
+        {
+            "category": "pizza",
+            "name": "Chicken Lovers",
+            "description": "Tomato Sauce, Chicken Rasher, parsley, Chicken Pepperoni, Marinated Chicken, Cheesy Bites, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "chicken-lovers.png"        
+        },
+        {
+            "category": "pizza",
+            "name": "American All Star",
+            "description": "Tomato Sauce, Mustard Sauce, Jalapeno, Beef Rasher, Beef Crumble, Beef Pepperoni, Onion, Slice Cheese, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "extravaganzza.png"        
+        },
+        {
+            "category": "pizza",
+            "name": "Veggie Mania",
+            "description": "Domino's Pizza Sauce, Green Pepper, Corn, Mushroom, Tomato, Black Olives, Onion, Parsley, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "veggie-mania.png"        
+        },
+        {
+            "category": "pizza",
+            "name": "Meatzza",
+            "description": "Domino's Pizza Sauce, Beef Pepperoni, Beef Sausage Cut, Beef Crumble, Beef Rasher, Marinated Chicken, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "meatzza.png"        
+        },
+        {
+            "category": "pizza",
+            "name": "Grill Beef Supreme",
+            "description": "BBQ Sauce, Cheese Sauce, Onion, Beef Burger, Jalapeno, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "grill-beef-supreme.png"        
+        },
+        {
+            "category": "pizza",
+            "name": "Fiery Meatzza",
+            "description": "Sriracha Sauce, Domino's Pizza Sauce, Beef Rasher, Beef Pepperoni, Beef Sausage, Chicken Pepper, Beef Crumble, Mozzarella Cheese",
+            "price": 78637,
+            "picture": "fiery-meatzza.png"        
+        },
+        {
+            "category": "sides",
+            "name": "Classic Meatball Supreme Sandwich",
+            "description": "Classic Meatball Supreme Sandwich",
+            "price": 34545,
+            "picture": "meatballsandwich.png"        
+        },
+        {
+            "category": "sides",
+            "name": "Tasty Stuffed Pocket Spicy Chicken Sausage with Cheese",
+            "description": "Tasty Stuffed Pocket Spicy Chicken Sausage with Cheese",
+            "price": 11364,
+            "picture": "stuffedpocketchicken.png"        
+        },
+        {
+            "category": "sides",
+            "name": "Potato Wedges",
+            "description": "Potongan Kentang dengan Saus Domino's Pizza",
+            "price": 16818,
+            "picture": "potato-wedges.png"        
+        },
+        {
+            "category": "drink",
+            "name": "Taro Milk",
+            "description": "Taro Milk",
+            "price": 15455,
+            "picture": "taro-milk.png"        
+        },
+        {
+            "category": "drink",
+            "name": "Peach Tea",
+            "description": "Peach Tea",
+            "price": 15455,
+            "picture": "peach-tea.png"        
+        },
+        {
+            "category": "drink",
+            "name": "Lychee Tea",
+            "description": "Lychee Tea",
+            "price": 15455,
+            "picture": "lychee-tea.png"        
+        }
+
+    ]
+}
